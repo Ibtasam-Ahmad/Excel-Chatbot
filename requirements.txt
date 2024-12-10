@@ -5,3 +5,4 @@ openai
 langchain-community
 tiktoken
 faiss-cpu
+openpyxl
